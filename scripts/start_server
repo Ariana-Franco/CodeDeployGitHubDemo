@@ -1,3 +1,3 @@
 #!/bin/bash
 # service httpd start
-mkdir sampleProject
+mkdir /home/ubuntu/sampleProject
